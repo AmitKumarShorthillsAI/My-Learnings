@@ -1,0 +1,1 @@
+console.log("Hello, This is Amit from Shorthills AI using javascript!")

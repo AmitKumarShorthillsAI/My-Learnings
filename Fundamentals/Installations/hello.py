@@ -1,0 +1,1 @@
+print("Hello, This is Amit from Shorthills AI")
