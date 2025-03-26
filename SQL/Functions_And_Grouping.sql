@@ -56,4 +56,5 @@ FROM invoices;
 SELECT DATE_ADD(NOW(), INTERVAL 7 DAY) AS Date_After_adding_interval;
 SELECT DATE_ADD(NOW(), INTERVAL 7 DAY) AS Date_After_Subtracting_interval;
 SELECT DATEDIFF('2025-03-21', '2025-03-01') AS Date_diff;
+SELECT TIMEDIFF('10:10:00', '15:40:10');
 SELECT TIMESTAMPDIFF(YEAR, '2000-01-01', NOW()) AS TimeStamp_diff;
